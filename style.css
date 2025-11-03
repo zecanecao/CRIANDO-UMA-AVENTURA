@@ -14,3 +14,11 @@ button{
     color: rgb(32, 58, 6);
     font-family: "Luckiest Guy", sans-serif;
 }
+
+.passo {
+    display:none;
+}
+
+.passo.ativo {
+    display: block;
+}
